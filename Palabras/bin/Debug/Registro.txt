@@ -1,0 +1,159 @@
+last;ultimo
+house;casa
+everything;todo
+brain;cerebro
+better;mejor,mayor
+tonight;Esta noche
+good;bueno
+already;ya
+thank you;gracias
+thing;cosa
+welcome;bienvenido
+tree;arbol
+work;trabajo
+never;nunca
+ever;alguna vez
+lost;perdio'
+garden;jardin
+nothing;nada,ninguna cosa
+lover;amante
+only;unicamente ,solo
+read;leer
+with;con
+wise;sabio
+today;hoy
+yesterday;ayer
+house;casa ,hogar
+choose;elegir
+new;nuevo
+news;Noticias
+weeking;fin de semana
+world;mundo
+words;Palabras
+here;aqui
+rule;regla
+Tuesday;Martes
+Wednesday;Miercoles
+Friday;Viernes
+Saturday;Sabado
+Sunday;Domingo
+half;medio,Mitad
+god;dios
+called;llamado
+carrer;carrera
+key;tecla,llave
+holidays;vacaciones,fiestas
+party;fiesta
+downloads;descargas
+thursday;Jueves
+hello;hola
+name;nombre
+around;alrededor de
+breakfast;desayuno
+Daily;Diario
+side;lado,lateral
+time;tiempo
+doing;haciendo
+feed;alimentar
+Home;hogar,a casa
+town;Pueblo
+tomorrow;mañana
+use;utilizar
+someday;algun dia
+together;juntos
+nobody;nadie
+outside;fuera de
+hungry;hambriento
+some;algunos, unos cuantos
+sometime;en algun momento
+woman;mujer
+teach;enseñar
+downloading;descargar
+downloads;descargas
+development;desarrollo
+ Good evening;Buenas noches
+evening;noche
+Wake up;despertarse
+ i won    ; gane
+hat;sombredo
+late;tarde ,atrasado
+hot;caliente
+arrived;llegado
+fine;bien
+group;grupo
+pencil;lapiz
+ready;listo
+bitter;amargo
+clean;limpio
+kind;bondadoso
+deep;profundo,hondo
+dirty;sucio
+small;pequeño,chico
+angry;enojado
+straight;recta
+strong;fuerte
+sweet;dulce
+gergeous;hermosa
+long;largo
+bad;malo,mal
+evil;mal
+sick;emfermo
+ill;emfermo
+broken;roto
+happy;feliz,felices
+tired;cansado
+fill;llenar
+get;obtener
+red;rojo
+do it;hazlo
+fork;tenedor
+smily;sonriente
+alone;solos,solo
+do;hacer
+homework;tarea
+sum;suma
+subtraction;resta
+looks;parece, se ve
+everyboby;todo en mundo,cada uno
+dream;sueño
+valley;valle
+what;que
+how;como?
+where;donde
+letter;letra,carta
+same;mismo,igual,lo mismo
+help;ayuda
+add;agregar,suma
+been;estado
+girls;niñas
+rewrite;volver a escribir
+Monday;Lunes
+developers; desarrolladores
+bed;cama
+walk;caminar
+soap;jabon
+now;ahora
+body;cuerpo
+head;cabeza
+mean;carne
+delete;eliminar
+confirence;confianza
+way;camino
+queen;reyna
+save;guardar
+cute;adorable,limto
+forever;siempre ,por siempre
+next;siguoente
+hurt;dolor,lastima,duele
+kiss;beso.besar
+expensive;costoso,caro
+too;tambien,demasiado
+big;grande
+bag;bolso
+enough;suficiente
+cry;llorar
+give;dar
+bitch;perra
+by;por
+bosses;jefes
+maybe;tal vez

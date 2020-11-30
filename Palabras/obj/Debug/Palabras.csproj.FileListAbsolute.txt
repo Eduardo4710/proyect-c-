@@ -1,0 +1,54 @@
+C:\Users\George Louis\source\repos\Palabras\Palabras\bin\Debug\Palabras.exe.config
+C:\Users\George Louis\source\repos\Palabras\Palabras\bin\Debug\Palabras.exe
+C:\Users\George Louis\source\repos\Palabras\Palabras\bin\Debug\Palabras.pdb
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.csprojResolveAssemblyReference.cache
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.Form1.resources
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.Properties.Resources.resources
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.csproj.GenerateResource.Cache
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.csproj.CoreCompileInputs.cache
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.exe
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.pdb
+C:\Users\George Louis\source\repos\Palabras\Palabras\obj\Debug\Palabras.Form2.resources
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\bin\Debug\Palabras.exe.config
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\bin\Debug\Palabras.exe
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\bin\Debug\Palabras.pdb
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.Form1.resources
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.Properties.Resources.resources
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.exe
+C:\Users\ACER\Downloads\LINO\Palabras\Palabras\obj\Debug\Palabras.pdb
+F:\LINO\Palabras\Palabras\bin\Debug\Palabras.exe.config
+F:\LINO\Palabras\Palabras\bin\Debug\Palabras.exe
+F:\LINO\Palabras\Palabras\bin\Debug\Palabras.pdb
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.csprojResolveAssemblyReference.cache
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.Form1.resources
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.Properties.Resources.resources
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.GenerateResource.Cache
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.CoreCompileInputs.cache
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.exe
+F:\LINO\Palabras\Palabras\obj\Debug\Palabras.pdb
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\bin\Debug\Palabras.exe.config
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\bin\Debug\Palabras.exe
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\bin\Debug\Palabras.pdb
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.csprojResolveAssemblyReference.cache
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.Form1.resources
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.Properties.Resources.resources
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.GenerateResource.Cache
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.csproj.CoreCompileInputs.cache
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.exe
+C:\Users\George Louis\Documents\eduardo\LINO\Palabras\Palabras\obj\Debug\Palabras.pdb
+G:\Turing\Palabras\Palabras\bin\Debug\Palabras.exe.config
+G:\Turing\Palabras\Palabras\bin\Debug\Palabras.exe
+G:\Turing\Palabras\Palabras\bin\Debug\Palabras.pdb
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.csprojResolveAssemblyReference.cache
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.Form1.resources
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.Properties.Resources.resources
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.csproj.GenerateResource.Cache
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.csproj.CoreCompileInputs.cache
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.exe
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.pdb
+G:\Turing\Palabras\Palabras\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Turing\Palabras\Palabras\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\Turing\Palabras\Palabras\obj\Debug\Palabras.Form2.resources

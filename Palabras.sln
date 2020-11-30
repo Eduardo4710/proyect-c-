@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palabras", "Palabras\Palabras.csproj", "{9CA702C0-FB4A-400D-9418-F586E400C441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA702C0-FB4A-400D-9418-F586E400C441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA702C0-FB4A-400D-9418-F586E400C441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA702C0-FB4A-400D-9418-F586E400C441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA702C0-FB4A-400D-9418-F586E400C441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C8E968-7B91-4872-AA1D-0468672A6B54}
+	EndGlobalSection
+EndGlobal
